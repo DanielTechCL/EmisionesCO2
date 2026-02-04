@@ -20,6 +20,8 @@ Este proyecto es un programa en Python que calcula las emisiones estimadas de CO
 ## Notas
 Este proyecto es educativo y está pensado como práctica para principiantes. Ayuda a entender cómo recibir datos del usuario, realizar cálculos simples y usar bucles y condicionales en Python.
 
+
+
 # CO₂ Emissions Calculator
 
 This project is a Python program that calculates the estimated CO₂ emissions of a 2018 Hyundai Santa Fe based on the distance traveled. It is designed for beginners who want to practice basic Python concepts such as loops, conditionals, and handling user input.
